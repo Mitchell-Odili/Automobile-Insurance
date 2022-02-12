@@ -2,6 +2,7 @@
 
 In this notebook, we will use
 
-Xgboost
-PyTorch
+- Xgboost
+- PyTorch
+
 to predict insurance claims for automobile Insurance and compare the results.
